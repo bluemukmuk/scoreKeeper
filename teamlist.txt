@@ -1,0 +1,9 @@
+Team 1  nameA   nameB   nameC   nameD
+Team 2  nameE   nameF   nameG   nameH
+Team 3  nameI   nameJ   nameK   nameL
+Team 4  nameM   nameN   nameO   nameP
+
+Cabin 1     nameA   nameE   nameH   nameJ
+Cabin 2     nameK   nameB   nameF   nameI
+Cabin 3     nameN   nameL   nameC   nameG
+Cabin 4     nameP   nameO   nameM   nameD
